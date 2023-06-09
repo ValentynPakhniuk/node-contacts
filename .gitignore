@@ -6,5 +6,8 @@ node_modules/
 #Junk
 .vscode/
 
+# misc
+.DS_Store
+
 # production
 /build
